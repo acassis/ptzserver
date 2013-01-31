@@ -1,0 +1,5 @@
+This is just an interface page between ptzweb and pelco-ptz application.
+
+It will receive "force" and "mov" variable passed by GET method and will call
+pelco application using this variables as program parameters.
+
